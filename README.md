@@ -2,6 +2,7 @@
 - elarp tells people that skidding is bad but he skids oyvey and doesnt even know how to code his own utils so he skidded them(just look at the utils)
 # shoutout
 3000iqplays - sending jar
+
 Master7720 - removing the shitty hwid
 # devs
 - elarp (hes loney)
